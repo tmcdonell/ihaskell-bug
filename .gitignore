@@ -1,0 +1,4 @@
+.stack-work/
+ihaskell-bug.cabal
+*~
+/.stack-work
